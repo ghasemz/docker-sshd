@@ -1,7 +1,10 @@
 # docker-ssh
 
+-------------------------------------
+
 THIS IS AN OLD CONTAINER. DON'T USE IT. IT IS [A BAD PRACTICE TO USE SSH WITH DOCKER](https://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/).
 
+-------------------------------------
 
 A container from Ubuntu 12.04 with openssh-server preinstalled to be used as a base image.
 Inspired by [docker-wordpress-nginx](https://github.com/eugeneware/docker-wordpress-nginx) container by [Eugene Ware](http://eugeneware.com).
