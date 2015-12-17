@@ -1,0 +1,4 @@
+ssh-proxy:  
+  build: .      
+  ports:
+   - "2020:22"
