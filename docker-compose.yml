@@ -1,4 +1,5 @@
 ssh-proxy:  
+  restart: always
   build: .      
   ports:
    - "2020:22"
