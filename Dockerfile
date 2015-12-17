@@ -1,4 +1,4 @@
-FROM ubuntu:12.04
+FROM ubuntu:14.04
 MAINTAINER Francesco Sullo, sullof@sullof.com, http://sullof.com
 
 ENV DEBIAN_FRONTEND noninteractive
